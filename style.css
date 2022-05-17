@@ -2,9 +2,22 @@
 /* styles for the image */
 img{
     border-radius: 8px;
-    padding: 5px;
-    width: 50%;
+    width: 90%;
 }
 
+.card-body{
+    border-radius: 8px;
+    color: white;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 150%;
+    width: 20em;
+    position: center;
 
-
+}
+.card{
+    width: 28em;
+    position: center;
+}
+.row{
+    position: center;
+}
